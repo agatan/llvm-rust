@@ -1,0 +1,6 @@
+[package]
+name = "llvm"
+version = "0.1.0"
+authors = ["agatan <agatan039@gmail.com>"]
+
+build = "build.rs"
